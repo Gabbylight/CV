@@ -9,7 +9,6 @@
 
 
 <hr>
-</table>
 <tr>
 </tr>
 
