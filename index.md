@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -26,11 +26,11 @@
   be a Heavy Trooper or a Sniper. Once thats done, I work my way using the internet and find the files I need for my Spartan. Once thats done, I dowbload the file
 put it Blender and play around with the file and add some details. Like add a knife between the armor section of the Spartan</h4>
 
-<h4> If anyone is interested, I'll have a link of all my work/projects I worked on!</h4><hr size"3">
+<h4> If anyone is interested, I'll have a link of all my work/projects I worked on!</h4>
 <ul>
 </ul>
 
-<h2><u>Contact Me</u></h2></p>
+<h2><u>Contact Me</u>
 
 
 </h2><a href="Contact Me 2.html">Click Link!</a>
@@ -48,6 +48,3 @@ put it Blender and play around with the file and add some details. Like add a kn
 
 
 
-  </body>
-
-</html>
