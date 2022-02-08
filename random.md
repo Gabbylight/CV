@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
 <h3>My Favorite Custom to my Least Favorite Custom </h3>
 
 
-<table cellspacing "30">
+
 <hr>
 </table>
 <tr>
@@ -55,7 +55,4 @@
 
 
 
-    <a href="random.html"</a>
-
-  </body>
-</html>
+   
